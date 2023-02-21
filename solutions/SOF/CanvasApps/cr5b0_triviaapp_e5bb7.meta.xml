@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr5b0_triviaapp_e5bb7</Name>
+  <AppVersion>2023-02-21T13:57:39Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23021.21.0</CreatedByClientVersion>
+  <MinClientVersion>3.23021.21.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.23021.21","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>TriviaApp</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"607527c7-0544-4c55-aa4b-1ec1f9c2c468":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1615/1.0.1615.3163/logicflows/icon.png","dataSources":["Admin-Automate-GetTrivia"],"dependencies":[],"dependents":[],"parameterHints":{"workflowEntityId":{"value":"81807af5-c8b1-ed11-83fe-000d3aa9a09b"},"workflowName":{"value":"0bde6590-8524-44c3-8d28-7778180d461d"}},"parameterHintsV2":{"workflowEntityId":{"value":"81807af5-c8b1-ed11-83fe-000d3aa9a09b"},"workflowName":{"value":"0bde6590-8524-44c3-8d28-7778180d461d"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr5b0_triviaapp_e5bb7_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr5b0_triviaapp_e5bb7_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
