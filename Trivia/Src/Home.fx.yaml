@@ -6,7 +6,7 @@ Home As screen:
         FontWeight: =FontWeight.Semibold
         Height: =60
         Size: =16
-        Text: ="Trivia appke"
+        Text: ="Trivia appke123"
         Width: =Parent.Width
         ZIndex: =1
 
