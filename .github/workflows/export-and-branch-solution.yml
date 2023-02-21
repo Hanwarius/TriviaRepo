@@ -29,21 +29,21 @@ jobs:
         environment-url: 'https://org3dd8e278.crm4.dynamics.com'
         user-name: 'hanwar@6sp8h6.onmicrosoft.com'
         password-secret: ${{ secrets.password }}
-        solution-name: PraiseTheSol
-        solution-output-file: out/exported/PTN.zip
+        solution-name: Trivia_SOL
+        solution-output-file: out/exported/SOF.zip
 
     - name: unpack-solution action
       uses: microsoft/powerplatform-actions/unpack-solution@v0
       with:
-        solution-file: out/exported/PTN.zip
-        solution-folder: out/solutions/PTN
+        solution-file: out/exported/SOF.zip
+        solution-folder: out/solutions/SOF
         solution-type: 'Unmanaged'
         overwrite-files: true
 
     - name: branch-solution, prepare it for a PullRequest
       uses: microsoft/powerplatform-actions/branch-solution@v0
       with:
-        solution-folder: out/solutions/PTN
-        solution-target-folder: solutions/PTN
+        solution-folder: out/solutions/SOF
+        solution-target-folder: solutions/SOF
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         allow-empty-commit: true
