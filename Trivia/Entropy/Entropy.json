@@ -16,7 +16,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/21/2023 13:57:35",
+  "HeaderLastSavedDateTimeUTC": "02/21/2023 13:59:47",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
@@ -52,10 +52,10 @@
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "btn_1": 0,
-    "btn_2": 0,
-    "btn_3": 0,
-    "btn_4": 0,
+    "btn_1": 3,
+    "btn_2": 4,
+    "btn_3": 5,
+    "btn_4": 6,
     "btn_get_trivia": 2,
     "Home": 2,
     "Knopkes": 0,
