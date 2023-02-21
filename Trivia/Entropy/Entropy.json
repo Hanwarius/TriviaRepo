@@ -11,7 +11,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/21/2023 13:46:28",
+  "HeaderLastSavedDateTimeUTC": "02/21/2023 13:50:18",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
@@ -52,13 +52,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0192608,
+    "AnalysisLoadTime": 0.0294638,
     "ControlCount": {
       "button": 1,
       "label": 2,
       "screen": 2
     },
-    "DeserializationLoadTime": 0.2138378,
+    "DeserializationLoadTime": 0.6671968,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
