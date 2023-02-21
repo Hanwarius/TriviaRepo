@@ -1,25 +1,80 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "btn_1": 8,
+    "btn_2": 9,
+    "btn_3": 10,
+    "btn_4": 11,
+    "btn_get_trivia": 6,
+    "Home": 3,
+    "Knopkes": 7,
+    "lbl_home_header": 4,
+    "lbl_trivia": 5,
+    "Style": 12
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/21/2023 15:37:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {},
+  "LocalConnectionIDReferences": {
+    "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
+  },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "Admin-Automate-GetTrivia": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "label": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "btn_1": {},
+    "btn_2": {},
+    "btn_3": {},
+    "btn_4": {},
+    "btn_get_trivia": {},
+    "Home": {},
+    "Knopkes": {},
+    "lbl_home_header": {},
+    "lbl_trivia": {},
+    "Style": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "btn_1": 7,
+    "btn_2": 8,
+    "btn_3": 9,
+    "btn_4": 10,
+    "btn_get_trivia": 5,
+    "Home": 2,
+    "Knopkes": 6,
+    "lbl_home_header": 3,
+    "lbl_trivia": 4,
+    "Style": 11
+  },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0329495,
+    "ControlCount": {
+      "button": 5,
+      "label": 2,
+      "screen": 3
+    },
+    "DeserializationLoadTime": 5.7965206,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
