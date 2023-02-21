@@ -1,0 +1,37 @@
+Home As screen:
+
+    lbl_home_header As label:
+        Align: =Align.Center
+        Fill: =RGBA(0, 0, 0, 0.1)
+        FontWeight: =FontWeight.Semibold
+        Height: =60
+        Size: =16
+        Text: ="Trivia app"
+        Width: =Parent.Width
+        ZIndex: =1
+
+    btn_get_trivia As button:
+        Fill: =RGBA(100, 96, 178, 1)
+        OnSelect: |-
+            =UpdateContext({locTrivia:'Admin-Automate-GetTrivia'.Run().text })
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Text: ="DiD yOu KnOw"
+        Width: =200
+        X: =572
+        Y: =350
+        ZIndex: =2
+
+    lbl_trivia As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 1)
+        BorderThickness: =1
+        Height: =200
+        Text: =locTrivia
+        Width: =Parent.Width/1.1
+        X: =52
+        Y: =100
+        ZIndex: =3
+

@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "6231519f-d145-4cdb-9190-cbc4ac066cad",
+    "Name": "Admin-Automate-GetTrivia",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "81807af5-c8b1-ed11-83fe-000d3aa9a09b"
+  }
+]

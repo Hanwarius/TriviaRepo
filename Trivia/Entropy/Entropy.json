@@ -1,0 +1,64 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "btn_get_trivia": 5,
+    "Home": 3,
+    "lbl_home_header": 4,
+    "lbl_trivia": 6,
+    "Style": 7
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/21/2023 09:51:07",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
+  },
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "Admin-Automate-GetTrivia": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "label": 0
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "btn_get_trivia": {},
+    "Home": {},
+    "lbl_home_header": {},
+    "lbl_trivia": {},
+    "Style": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "btn_get_trivia": 2,
+    "Home": 0,
+    "lbl_home_header": 0,
+    "lbl_trivia": 1,
+    "Style": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0630704,
+    "ControlCount": {
+      "label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.2132096,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
