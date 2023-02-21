@@ -1,0 +1,26 @@
+Knopkes As screen:
+
+    btn_1 As button:
+        Text: ="Button"
+        X: =184
+        Y: =300
+        ZIndex: =1
+
+    btn_2 As button:
+        Text: ="Button"
+        X: =495
+        Y: =300
+        ZIndex: =2
+
+    btn_3 As button:
+        Text: ="Button"
+        X: =742
+        Y: =300
+        ZIndex: =3
+
+    btn_4 As button:
+        Text: ="Button"
+        X: =1015
+        Y: =300
+        ZIndex: =4
+
