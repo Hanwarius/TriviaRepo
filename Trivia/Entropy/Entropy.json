@@ -1,80 +1,25 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "btn_1": 9,
-    "btn_2": 10,
-    "btn_3": 11,
-    "btn_4": 12,
-    "btn_get_trivia": 6,
-    "Home": 3,
-    "Knopkes": 8,
-    "lbl_home_header": 4,
-    "lbl_trivia": 5,
-    "Style": 7
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/21/2023 13:59:47",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {
-    "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
-  },
+  "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "Admin-Automate-GetTrivia": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "btn_1": {},
-    "btn_2": {},
-    "btn_3": {},
-    "btn_4": {},
-    "btn_get_trivia": {},
-    "Home": {},
-    "Knopkes": {},
-    "lbl_home_header": {},
-    "lbl_trivia": {},
-    "Style": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "btn_1": 3,
-    "btn_2": 4,
-    "btn_3": 5,
-    "btn_4": 6,
-    "btn_get_trivia": 2,
-    "Home": 2,
-    "Knopkes": 0,
-    "lbl_home_header": 0,
-    "lbl_trivia": 1,
-    "Style": 6
-  },
+  "PublishOrderIndices": {},
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0228015,
-    "ControlCount": {
-      "button": 4,
-      "label": 2,
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.0721833,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

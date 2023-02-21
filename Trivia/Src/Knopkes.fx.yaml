@@ -1,13 +1,15 @@
 Knopkes As screen:
 
     btn_1 As button:
-        Text: ="Button"
+        Fill: =RGBA(100, 96, 178, 1)
+        Text: ="COOL"
         X: =184
         Y: =300
         ZIndex: =1
 
     btn_2 As button:
-        Text: ="Button"
+        Fill: =RGBA(100, 96, 178, 1)
+        Text: ="WOW"
         X: =495
         Y: =300
         ZIndex: =2
