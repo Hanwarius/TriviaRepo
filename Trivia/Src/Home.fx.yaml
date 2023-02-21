@@ -6,7 +6,7 @@ Home As screen:
         FontWeight: =FontWeight.Semibold
         Height: =60
         Size: =16
-        Text: ="Trivia stuff yaknow"
+        Text: ="Trivia (v2.0)"
         Width: =Parent.Width
         ZIndex: =1
 
