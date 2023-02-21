@@ -3,15 +3,15 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "btn_get_trivia": 5,
+    "btn_get_trivia": 6,
     "Home": 3,
     "lbl_home_header": 4,
-    "lbl_trivia": 6,
+    "lbl_trivia": 5,
     "Style": 7
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/21/2023 10:14:55",
+  "HeaderLastSavedDateTimeUTC": "02/21/2023 10:28:03",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "607527c7-0544-4c55-aa4b-1ec1f9c2c468": "\"/providers/microsoft.powerapps/apis/shared_logicflows/connections/9ede9cd1ef7b66cb39970cc006e0a498-581db9f8cd7522c3\""
@@ -52,12 +52,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0630704,
+    "AnalysisLoadTime": 0.0191527,
     "ControlCount": {
-      "label": 1,
-      "screen": 1
+      "button": 1,
+      "label": 2,
+      "screen": 2
     },
-    "DeserializationLoadTime": 0.2132096,
+    "DeserializationLoadTime": 0.200821,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
