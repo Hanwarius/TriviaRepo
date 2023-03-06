@@ -35,3 +35,11 @@ Home As screen:
         Y: =100
         ZIndex: =3
 
+    Label1 As label:
+        Height: =114
+        Text: ="Anwar en "
+        Width: =698
+        X: =174
+        Y: =492
+        ZIndex: =4
+
