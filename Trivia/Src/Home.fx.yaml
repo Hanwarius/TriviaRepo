@@ -37,7 +37,7 @@ Home As screen:
 
     Label1 As label:
         Height: =114
-        Text: ="Anwar en "
+        Text: ="Anwar en co"
         Width: =698
         X: =174
         Y: =492
